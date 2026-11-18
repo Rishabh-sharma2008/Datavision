@@ -1,0 +1,12 @@
+
+Month,Sales,Orders,Region
+January,12000,120,North
+February,15000,150,South
+March,13500,135,North
+April,19000,190,East
+May,21000,210,West
+June,25000,250,South
+July,23000,230,East
+August,28000,280,West
+September,30000,300,North
+October,32000,320,South
